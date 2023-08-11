@@ -1,0 +1,34 @@
+[
+  {
+    "type": "add",
+    "id": "98724",
+    "fields": {
+      "$oid": "64be8d77f5d4b29989674d0e",
+      "code": "FDFC045 RB",
+      "description": "fog lamp cover rh w/ hole",
+      "end_year": 2008,
+      "front_back": "front",
+      "gw": 10.51250368,
+      "image_json": "{'webSearchUrl': 'https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Ford+FOCUS+FOG+LAMP+COVER+RH+W%2f+HOLE&id=1A0D4CF25A7807BDD1EBB722D65FF9A9B53CE89B&simid=608038464800561505', 'name': 'fits 2008 2011 Ford Focus right passenger side fog lamp cover w hole 08 ...', 'thumbnailUrl': 'https://tse2.mm.bing.net/th?id=OIP.eU38_qppdF2Uni4-1tJ-5wHaEq&pid=Api', 'datePublished': '2020-07-23T10:35:00.0000000Z', 'isFamilyFriendly': True, 'contentUrl': 'https://i.ebayimg.com/images/g/pRQAAOSwpONZSEd4/s-l640.jpg', 'hostPageUrl': 'https://www.ebay.com/i/142673762994?chn=ps', 'contentSize': '21347 B', 'encodingFormat': 'jpeg', 'hostPageDisplayUrl': 'https://www.ebay.com/i/142673762994?chn=ps', 'width': 640, 'height': 403, 'hostPageFavIconUrl': 'https://www.bing.com/th?id=ODF.EsjikqRsBSlmPNljQZ5GRQ&pid=Api', 'hostPageDomainFriendlyName': 'eBay', 'hostPageDiscoveredDate': '2020-06-03T00:00:00.0000000Z', 'thumbnail': {'width': 474, 'height': 298}, 'imageInsightsToken': 'ccid_eU38/qpp*cp_3CFC2AF658127F6FB18BB5768D1091DD*mid_1A0D4CF25A7807BDD1EBB722D65FF9A9B53CE89B*simid_608038464800561505*thid_OIP.eU38!_qppdF2Uni4-1tJ-5wHaEq', 'insightsMetadata': {'pagesIncludingCount': 1, 'availableSizesCount': 1}, 'imageId': '1A0D4CF25A7807BDD1EBB722D65FF9A9B53CE89B', 'accentColor': '382F41'}",
+      "image_names": "image_1413.jpg",
+      "image_url": "https://cptm-images.s3.us-east-1.amazonaws.com/Images/image_1413.jpg",
+      "location": "right side",
+      "m3": 0.478096721,
+      "nw": 3.951331233,
+      "oem": "5M51-15A245-BA",
+      "pcs": 1,
+      "price": 93.45,
+      "start_year": 2007,
+      "unique_id": 1414,
+      "years_accepted": [2007, 2008],
+      "make_text": "ford",
+      "make_literal": "ford",
+      "model_text": "focus",
+      "model_literal": "focus",
+      "category_text": "exterior lighting and signals",
+      "category_literal": "exterior lighting and signals",
+      "sub_category_text": "fog lamp base/ cover",
+      "sub_category_literal": "fog lamp base/ cover"
+    }
+  }
+]

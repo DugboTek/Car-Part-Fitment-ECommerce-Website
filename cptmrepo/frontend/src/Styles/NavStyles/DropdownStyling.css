@@ -1,0 +1,161 @@
+.categories-dropdown-menu {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  height: fit-content;
+  min-height: 350px;
+  width: 805px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%; /* Position below the link */
+  left: 0;
+  padding: 20px;
+  padding-bottom: 35px;
+}
+
+.list-content {
+  display: flex;
+}
+.vehicle-menu {
+  width: 725px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+}
+
+.content ul {
+  list-style: none;
+}
+
+.cat-tabs {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding-bottom: 25px;
+}
+
+.cat-tabs button {
+  font-size: 1.2rem;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.tab-line {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: rgb(216, 211, 211); /* Default color for inactive tabs */
+  transition: background-color 0.3s ease; /* Add a transition effect */
+}
+
+.active .tab-line {
+  background-color: var(--mainColorDark); /* Color for active tab */
+}
+
+.content li {
+  color: black;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  padding-bottom: 7px;
+}
+
+.content li:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.featured-img-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  /* align-items: center; */
+}
+.vehicle-model-list {
+ 
+}
+
+.featured-img-content img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  margin-left: 20px;
+}
+.featured-img-content h1 {
+  font-size: 1.5rem;
+  padding: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.featured-img-content button {
+  background-color: var(--mainColorDark);
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  margin: 10px;
+}
+
+.sub-cat-list {
+  transition: 1s;
+}
+
+.sub-cat-list li {
+  padding-left: 25px;
+  color: rgb(112, 108, 108);
+}
+
+.hovered {
+  font-weight: bold;
+}
+
+
+
+/* Add this to your existing CSS or create a new CSS file */
+.categories-dropdown-menu {
+  /* Your existing styles for dropdown menu */
+}
+
+.list-content {
+  /* Adjust width and other styles as needed */
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.vehicle-make-list {
+  /* Add styles for the vehicle make list */
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  width: 50%; /* Set the width to 50% to achieve two columns */
+}
+
+
+
+.vehicle-model-list {
+  /* Add styles for the vehicle model list */
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  column-count: 2;
+  column-gap: 10px;
+  padding-left: 20px;  
+  height: 73%; /* Set the width to 50% to achieve two columns */
+  margin: 0;
+}

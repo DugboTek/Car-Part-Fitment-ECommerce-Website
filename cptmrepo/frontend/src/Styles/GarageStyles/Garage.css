@@ -1,0 +1,15 @@
+
+@keyframes rollout {
+    100% { transform: none; }
+    0% { transform: translateY(34em);}
+  }
+  
+.roll-out {
+    animation: rollout 5s;
+  }
+
+.background {
+    background: url('https://media.istockphoto.com/vectors/open-roller-shutter-safe-garage-door-vector-id869673852?k=6&m=869673852&s=612x612&w=0&h=v1GShq62m9azB7zhkd0bpu49XGQOXTNvWLBMzv3gnE4=') no-repeat center center fixed;
+    background-repeat: no-repeat;
+    background-size: 170%;
+}  

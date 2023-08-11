@@ -1,0 +1,21 @@
+/* Ali Moulton */
+
+.logo {
+  position: relative;
+  aspect-ratio: auto;
+}
+
+.logo img {
+  width: 300px;
+  height: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+  .logo {
+    position: relative;
+  }
+  .logo img {
+    height: 40px;
+    width: auto;
+  }
+}

@@ -1,0 +1,58 @@
+/* Ali Moulton */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Kanit:ital,wght@0,300;0,400;0,600;1,300&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* font-family: 'Bagel Fat One', cursive; */
+    font-family: 'Kanit', sans-serif;
+    font-weight:normal;
+
+}
+
+:root {
+    --mainColor: #ffffff;
+    --mainColorDark: #004E97;
+    --secondaryColor: #77B3E3;
+    --hoverColor: #3d78af;
+    --textColor: #001C29;
+}
+
+
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+    height: 80px;
+    padding: 0 2rem;
+    background-color: var(--mainColor);
+    color: var(--textColor);
+    margin-top: 1.2%;
+    padding-bottom:50px;
+}
+
+.ft a{
+    margin: 0 2rem;
+    color: var(--textColor);
+    text-decoration: none;
+    font-size: 0.75rem;
+}
+
+
+.ft a:hover{
+    color: var(--mainColorDark);
+}
+
+
+
+
+ft {
+    padding-top: 30px;
+    justify-content: center;
+}
+

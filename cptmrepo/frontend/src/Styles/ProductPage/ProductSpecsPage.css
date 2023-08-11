@@ -1,0 +1,12 @@
+.specspage-sections {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1vw;
+}
+
+.ps-contents-container  {
+    display: flex;
+    justify-content: center;
+    padding-top: 13vw;
+    padding-bottom: 3vw;
+}

@@ -1,0 +1,164 @@
+#review-hr {
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+.reviews-container {
+    padding-top: 25px;
+
+}
+
+.product-description-box {
+    padding: 30px;
+}
+
+.product-description-box h1 {
+    padding-top: 15px;
+    padding-left: 12px;
+}
+
+.reviews-container h1 {
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.reviews-container  h2{
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 5px;
+}
+/* Reviews Overall */ 
+.reviews-overview h3{
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.rating-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* margin-left: 15px; */
+    padding-top: 10px;
+}
+
+.rating-container h2{
+    margin-top: -4px;
+}
+.rating-container img {
+    height: 15px; 
+    margin-top: 10px;
+    
+}
+.star-rating img {
+    height: 15px; 
+    width: auto;
+    margin-left: 7px;
+    margin-top: 12px;
+}
+.star-rating {
+    display: flex;
+    flex-direction: row;
+}
+/* By feature */
+
+.feature-reviews h3{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.feature-reviews {
+    padding-top: 10px;
+}
+
+/* Customer Reviews */
+
+.cust-review {
+    /* background-color: red; */
+    width: 90%;
+    border-radius: 5%;
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 10px;
+    margin:15px;
+    margin-top: 25px;;
+}
+
+.cust-review h2{
+    display: inline;
+}
+
+ .reviews-container p {
+    margin: 15px;
+}
+
+.reviews-header{ 
+    display: flex;
+    flex: row wrap;
+    justify-content: space-evenly;
+}
+
+.reviews-right{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+/* Left Column */
+/* Add a review styling */
+.add-review{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.add-review h2{
+    margin-top: 10px;
+}
+.add-review p{
+    margin: 15px;
+}
+.add-review Button {
+    position: relative;
+    left: 5%;
+    width: 60%;
+
+}
+
+.reviews-left{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+.reviews-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 715px){
+    .reviews-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .reviews-left{
+        width : 95%;
+    }
+    .reviews-right{
+        padding-top: 3rem;
+        width : 95%;
+    }
+    .reviews-header{
+        justify-content: left;
+    }
+    .reviews-header .sort-reviews-btn{
+        position: absolute;
+        right: 35%;
+        max-width: 20px;
+    }
+
+}

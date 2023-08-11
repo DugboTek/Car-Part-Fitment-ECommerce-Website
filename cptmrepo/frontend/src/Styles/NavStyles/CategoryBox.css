@@ -1,0 +1,55 @@
+.capitalize {
+    text-transform: capitalize; /* Capitalize the first letter of each word */
+}
+.dropdown-options
+{
+    text-transform: capitalize; 
+    padding-top: 7px;
+    line-height: 20px;
+}
+.dropdown-options:hover {
+    font-weight: bold;
+}
+.dropdown-box {
+    border: 2px solid #A9A9A9;
+    width: 40em; 
+    height: 25em;
+    background-color: white;
+}
+/* old stuff, not used? */
+.all-categories-container h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+.categories-list-container {
+    list-style: none;
+}
+.cat-columns {
+    padding: 1rem;
+}
+
+.categories-list-container li {
+    
+    text-transform: capitalize; /* Capitalize the first letter of each word */
+    padding-top: 7px;
+}
+.categories-list-container li:hover {
+    font-weight: bold;
+}
+.two-column-container ul{
+    list-style-type: none;
+    column-count: 2;
+}
+.two-column-container li{
+    break-inside: avoid-column;
+}
+
+.categories-popover Button{
+    margin-left: 5px;
+    
+}
+
+.custom-popover-width {
+    width: 1000px;
+}

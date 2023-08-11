@@ -1,0 +1,131 @@
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+.home-contents-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  padding-top: 20.5vh;
+  padding-bottom: 3vh;
+}
+
+.home-garage-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.home-featured-products .featured-products-title {
+  display: flex;
+  justify-content: left;
+  padding-left: 50px;
+  align-items: center;
+  font-size: 2rem;
+  /* background-color: var(--mainColorDark); */
+  color: var(--mainColorDark);
+  height: 60px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.popblock hr {
+  width: 110px;
+  position: absolute;
+  top: 50px;
+  margin-left: 50px;
+  height: 5px;
+  background-color: orange;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.SwiperCont {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+  align-items: center;
+}
+
+.headerContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.swiper-button-prev-unique {
+  width: 200px;
+  font-size: 4em;
+}
+.swiper-button-next-unique {
+  width: 200px;
+  font-size: 4em;
+}
+
+/* .header{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.banner-home{
+  position: absolute;
+  top: 200px;
+  margin-top: 400px;
+} */
+
+.home-featured-products {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chevrons-fp {
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+}
+
+.chevy {
+  margin: 15px;
+}
+
+.chevy :hover {
+  color: var(--mainColorDark);
+}
+
+/* .home-contents-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+
+/* ... (existing CSS code) ... */
+
+/* .home-contents-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+  } */
+
+/* Add this new CSS rule */
+/* .garage-container {
+    display: flex;
+  }
+   */
+/* ... (remaining CSS code) ... */

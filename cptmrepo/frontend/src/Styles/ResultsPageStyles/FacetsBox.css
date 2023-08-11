@@ -1,0 +1,84 @@
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+
+.skeleton {
+  animation: skeleton-loading 1s linear infinite alternate;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-color: hsl(200, 20%, 70%);
+  }
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
+}
+
+.facet-list {
+  margin-left: 10px;
+  padding-bottom: 5px;
+  font-size: small;
+}
+.my-range-slider-thumb {
+  --chakra-colors-green-500: var(--mainColorDark);
+}
+
+.cat-list h1 {
+  margin: 5px;
+  font-size: medium;
+  font-weight: bold;
+  color: var(--mainColorDark);
+}
+
+.show-more-less {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.arrow {
+  padding-top: 2px;
+  margin-left: 5px;
+}
+
+.cat-list {
+  margin-top: 20px;
+  justify-content: space-around;
+  background-color: var(--mainColor);
+  /* border: 0.5px solid var(--textColor); */
+  width: 18rem;
+  padding: 5px;
+  margin: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border-radius: 10px;
+}
+.checkbox-area {
+  text-transform: capitalize;
+}
+.facets {
+  margin: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  background-color: var(--mainColor);
+}
+
+@media only screen and (max-width: 1024px) {
+  .facet-list {
+    margin-left: 3px;
+    padding-bottom: 5px;
+    font-size: 125px;
+  }
+
+  .cat-list h1 {
+    margin: 3px;
+    margin-left: 0px;
+    font-size: medium;
+    /* font-weight: ; */
+  }
+}

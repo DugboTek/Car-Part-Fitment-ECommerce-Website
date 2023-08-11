@@ -1,0 +1,16 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "compilerOptions": {
+    "rootDirs": ["src"],
+    "outDir": "./dist",
+    "lib": ["es2020"],
+    "target": "es2020",
+    "module": "es2022",
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./BackEnd/Server/graphQL/resolvers/schema/oldSchema/**/*"
+  ]
+}

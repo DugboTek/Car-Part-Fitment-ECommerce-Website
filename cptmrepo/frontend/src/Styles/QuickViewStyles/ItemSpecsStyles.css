@@ -1,0 +1,153 @@
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+.description-grid h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.quickview-product-title {
+}
+.quickview-product-title h1 {
+  font-size: 0.5rem;
+}
+
+.quickview-truck {
+  margin-left: -5vh;
+}
+
+.quickview-ship-gap {
+  gap: 5vh;
+}
+.prod-description-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-container h1 {
+  margin-right: 10px;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.cart-container button {
+  margin-top: 20px;
+  background-color: var(--mainColorDark);
+}
+
+.qty {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+.cart-container button {
+  margin-bottom: 18px;
+  color: white;
+}
+
+.modal-popup {
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  padding-right: 39px;
+  gap: 52px;
+  width: 40vw;
+  height: 76vh;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4vh;
+  padding-bottom: 9vh;
+}
+
+.modal-popup .image-container {
+  width: 20vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.description-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.description-title {
+  display: flex;
+  flex-direction: row;
+}
+
+.heart-icon {
+  font-size: 2vw;
+}
+
+.brand-container {
+  text-transform: capitalize;
+}
+
+.description-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.description-header h1 {
+  font-size: 2em;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: var(--mainColorDark);
+}
+
+.heart-container {
+  margin-left: 10px;
+}
+
+.star-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.star-count {
+  margin-left: 5px;
+}
+
+.price-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+}
+
+.price-container h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: var(--mainColorDark);
+}
+.price-container h2 {
+  font-size: 2.5em;
+  margin-left: 0;
+  padding: 0;
+}
+.ship-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  padding-top: 20px;
+}

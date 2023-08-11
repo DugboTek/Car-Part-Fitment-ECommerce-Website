@@ -1,0 +1,71 @@
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+
+.banner {
+  position: relative;
+  top: 16vh;
+  width: 100%;
+  background-color: var(--mainColorDark);
+  height: 50px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0px 0px 10px 10px;
+  height: 60px;
+  z-index: 40;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.banner-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* To center the content horizontally */
+  position: absolute;
+  bottom: 0; /* Position at the bottom of the header */
+  width: 100%;
+  padding: 13px 20px; /* Add padding for spacing */
+  box-sizing: border-box; /* Ensure padding doesn't affect the total width */
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: white;
+}
+
+.offer {
+  margin: 0;
+  white-space: nowrap;
+  animation: slide-in 1s forwards;
+  /* width: 100%; */
+  transition: transform 0.5s ease-in-out;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.chevron {
+  font-size: 24px;
+  cursor: pointer;
+  color: white;
+}

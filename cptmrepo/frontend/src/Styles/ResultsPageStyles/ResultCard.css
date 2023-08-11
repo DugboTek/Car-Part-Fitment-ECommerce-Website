@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Kanit:ital,wght@0,300;0,400;0,600;1,300&display=swap");
+
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --backgroundColor: #c0dbf1;
+  --hoverColor: #3d78af;
+  --textColor: #001c29;
+  --dropdownColor: #e9eef1;
+  --secondaryTextColor: #023f5c;
+  --speed: 0.5s;
+  --border-radius: 1px;
+}
+
+.result-cards-container {
+  position: relative;
+}
+
+.img-container {
+  position: relative;
+  height: 20em;
+  width: 18em;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+}
+.img-container img {
+  height: 15em;
+  padding-left: 10%;
+  padding-right: 4%;
+  padding-top: 5%;
+  position: absolute;
+  left: 3.2%;
+  width: 14em;
+
+  /* width: 400px; */
+}
+.img-container #quick-view-btn {
+  margin: 0%;
+  width: 36%;
+  padding-bottom: 0%;
+  position: absolute;
+  left: 28%;
+  top: 54%;
+  font-family: "Kanit", sans-serif;
+  font-weight: normal;
+  font-size: small;
+  background-color: white;
+  border: 1px solid #001c29;
+  visibility: hidden;
+}
+#quick-view-btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.result-cards-container:hover #quick-view-btn {
+  visibility: visible;
+  transition: var(--speed);
+}
+
+.product-info {
+  /* margin-top: 10px;  */
+  padding-bottom: 20%;
+  position: "absolute";
+  font-family: "Kanit", sans-serif;
+  /* background-color: var(--mainColor); */
+  padding-right: 10%;
+  /* padding: 10px; */
+  /* width: 20%; */
+  /* border-radius: 5%; */
+  text-align: center;
+  text-transform: capitalize;
+}
+
+#product-main {
+  font-size: large;
+  font-weight: bold;
+}
+
+#part-num {
+  font-size: small;
+  font-weight: normal;
+  /* color: var(--mainColorDark); */
+}
+
+#prod-price {
+  font-size: medium;
+  font-weight: bold;
+  text-align: end;
+}
+.result-cards-container:hover #product-main{
+  text-decoration: underline;
+}
+
+.card-container-complete {
+  /* margin: 10px;
+    margin-bottom: 30px; */
+  width: 160%;
+  height: 100%;
+  padding: 0px;
+  vertical-align: middle;
+  /* background-color: var(--mainColor); */
+  border-radius: 3%;
+  box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
+}

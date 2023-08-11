@@ -1,0 +1,194 @@
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+
+.filterstack {
+  display: flex;
+  flex-direction: column;
+}
+.badabing {
+  display: flex;
+  flex-direction: row;
+}
+.yearinfo {
+  text-transform: capitalize;
+  padding-left: 10px;
+}
+
+.garage-cont {
+  max-width: 5px;
+}
+.results-grid {
+  display: block;
+}
+.results-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 26vh;
+  justify-content: center;
+}
+.filterstack h2 {
+  font-size: 1.6em;
+  font-style: italic;
+}
+
+.results-left {
+  max-width: 50%;
+  position: absolute;
+  left: 0;
+}
+
+.results-right {
+  width: 92%;
+  padding-left: 12vw;
+  padding-top: 50px;
+}
+
+.filters-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.sort-container {
+  display: flex;
+  justify-content: right;
+  position: absolute;
+  right: 10%;
+}
+
+.results-page h2 {
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.load-more-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--greyLight-2);
+  color: var(--greyDark);
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.load-more-btn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: var(--mainColorDark);
+}
+
+/* CSS */
+.button-3 {
+  appearance: none;
+  background-color: var(--mainColorDark);
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) {
+  box-shadow: none;
+  outline: none;
+}
+
+.button-3:hover {
+  background-color: var(--hoverColor);
+  color: black;
+}
+
+.button-3:focus {
+  box-shadow: rgba(46, 164, 79, 0.4) 0 0 0 3px;
+  outline: none;
+}
+
+.button-3:disabled {
+  background-color: #94d3a2;
+  border-color: rgba(27, 31, 35, 0.1);
+  color: rgba(255, 255, 255, 0.8);
+  cursor: default;
+}
+
+.button-3:active {
+  background-color: var(--hoverColor);
+  box-shadow: rgba(20, 70, 32, 0.2) 0 1px 0 inset;
+}
+
+.filter-cont h2 {
+  font-size: 2rem;
+  color: var(--mainColorDark);
+  font-weight: 500;
+}
+.filters-container h1 {
+  font-size: 2rem;
+  padding-left: 20px;
+  font-weight: bold;
+}
+.filter-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+}
+.filters-area {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.selected-facet-box {
+  width: 10vw;
+  padding-left: 13px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 15px;
+  background-color: var(--mainColorDark);
+  border-radius: 20px;
+  text-transform: capitalize;
+  box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px,
+    rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
+.results-grid-cont {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, auto));
+  align-items: center;
+  justify-content: center; /* Add this to center the grid horizontally */
+  gap: 1rem;
+  text-align: center;
+  width: 100%;
+  height: max-content;
+}

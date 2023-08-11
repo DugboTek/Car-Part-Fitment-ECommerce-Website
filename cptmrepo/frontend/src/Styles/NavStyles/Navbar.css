@@ -1,0 +1,133 @@
+/* Ali Moulton */
+
+@import url("https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Kanit:ital,wght@0,300;0,400;0,600;1,300&display=swap");
+
+/* *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+
+} */
+
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+
+.categories-dropdown-containera {
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  background-color: var(--mainColor);
+  color: var(--textColor);
+  margin-right: 220px;
+  z-index: 0;
+}
+
+.categories-dropdown-containera h1 {
+  margin: 0 1rem;
+  color: var(--textColor);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.6rem;
+  white-space: nowrap;
+  position: relative;
+  z-index: 1;
+}
+
+.categories-dropdown-containera h1:hover {
+  color: var(--mainColorDark);
+}
+
+/* header .nav-btn {
+  padding: 5px;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--textColor);
+  visibility: hidden;
+  opacity: 0;
+  font-size: 1.8rem;
+} */
+
+header div,
+.categories-dropdown-containera {
+  display: flex;
+}
+
+header .responsive_nav {
+  justify-content: center;
+}
+
+/* Abandoned mobile - this should be useless */
+
+@media only screen and (max-width: 1024px) {
+  header .nav-btn {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .nav-hidden {
+    visibility: visible;
+    opacity: 1;
+  }
+  .hamburger-hidden {
+    visibility: hidden;
+    opacity: 0;
+  }
+  .categories-dropdown-containera h1:hover {
+    color: var(--hoverColor);
+  }
+
+  header .categories-dropdown-containera {
+    position: fixed;
+    top: -100vh;
+    z-index: 2;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    background-color: var(--mainColor);
+    transition: 1s;
+    transform: translateY(-100vh);
+  }
+
+  /*  
+    header nav .labels {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+    } */
+
+  header .responsive_nav {
+    transform: translateY(100vh);
+  }
+
+  .categories-dropdown-containera .nav-close-btn {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+  }
+
+  .categories-dropdown-containera h1 {
+    font-size: 1.5rem;
+  }
+  .hamburger-nav {
+    justify-content: right;
+    height: 200px;
+  }
+}

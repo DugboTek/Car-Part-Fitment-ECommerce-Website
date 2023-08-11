@@ -1,0 +1,48 @@
+Car Fitment Website
+The Car Fitment Website is a project aimed at providing a comprehensive and user-friendly platform for matching car parts to the specific makes, models, and years of vehicles they are compatible with. This README document serves as an introduction and guide to the project, outlining its purpose, features, setup instructions, and other relevant information.
+
+Introduction
+The Car Fitment Website is designed to assist car enthusiasts, mechanics, and individuals in finding the right car parts that are compatible with their specific vehicles. The website provides a user-friendly interface to search and filter through an extensive database of car parts, making it easier to find the perfect fit for any car model.
+
+Features
+The Car Fitment Website offers the following key features:
+
+Comprehensive Car Database: The website maintains an extensive database of various car makes, models, and years, ensuring accurate fitment information for car parts.
+Part Compatibility Search: Users can search for specific car parts and filter the results based on the make, model, and year of their vehicle to find compatible parts.
+Detailed Part Information: Each car part listing provides detailed information, including specifications, pricing, availability, and user ratings and reviews.
+User Reviews and Ratings: Users can contribute their experiences and provide ratings for different car parts, helping others make informed decisions.
+User Accounts: Registered users can save their vehicle information, manage their preferences, and access personalized recommendations.
+Getting Started
+Prerequisites
+Before setting up the Car Fitment Website, ensure that you have the following prerequisites:
+
+Node.js (version 12 or higher)
+NPM (Node Package Manager)
+Installation
+To install and set up the Car Fitment Website, follow these steps:
+
+Clone the repository from GitHub:
+
+bash
+Copy code
+git clone https://tools.publicis.sapient.com/bitbucket/scm/cptmdev/cptmrepo.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd CPTMDEV
+Install the dependencies using npm:
+
+Copy code
+npm install
+Usage
+To start the Car Fitment Website on your local machine, follow these steps:
+
+Ensure you are in the project root directory.
+
+Run the development server:
+
+sql
+Copy code
+npm start
+Open your web browser and visit http://localhost:3000 to access the Car Fitment Website.

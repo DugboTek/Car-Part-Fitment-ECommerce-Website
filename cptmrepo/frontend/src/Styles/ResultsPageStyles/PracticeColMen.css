@@ -1,0 +1,8 @@
+.collapsible .header {
+    padding: 6px;
+    cursor: pointer;
+}
+
+.collapsible .content {
+    padding: 6px;
+}

@@ -1,0 +1,9 @@
+.results-grid {
+    display: flex;
+    /* background-color: red; */
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: start;
+}

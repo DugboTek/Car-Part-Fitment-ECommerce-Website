@@ -1,0 +1,26 @@
+.product-description-box h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 35px;
+    padding-bottom: 15px;
+}
+.product-description-box p {
+    padding: 35px;
+    padding-top: 0;
+    padding-bottom: 15px;
+}
+
+
+.product-description-box hr{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+
+.product-description-box {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Add this line to center horizontally */
+    margin: 0 auto;
+}

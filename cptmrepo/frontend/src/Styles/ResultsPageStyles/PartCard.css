@@ -1,0 +1,129 @@
+:root {
+  --mainColor: #ffffff;
+  --mainColorDark: #004e97;
+  --secondaryColor: #77b3e3;
+  --hoverColor: #77b3e3;
+  --textColor: #001c29;
+}
+
+#quick-view-btn {
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  margin: 0%;
+  width: 36%;
+  padding-bottom: 0%;
+  position: absolute;
+  left: 33%;
+  top: 70%;
+  font-family: "Kanit", sans-serif;
+  font-weight: normal;
+  font-size: small;
+  background-color: white;
+  border: 1px solid #001c29;
+  visibility: hidden;
+}
+
+.product-card:hover .overlay {
+  display: block;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.product-card:hover #quick-view-btn {
+  visibility: visible;
+  opacity: 1;
+}
+
+.product-card {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  position: relative;
+  padding: 20px 20px 10px 20px;
+  height: 550px;
+  max-width: 350px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  transition: ease-in-out 0.3s;
+}
+.product-card:hover {
+  transform: translateY(-10px);
+  transition: transform 0.35s ease-in-out;
+}
+
+.product-card-image {
+  padding-top: 75%; /* 4:3 aspect ratio (300px / 4 * 3 = 225px) */
+  position: relative;
+  overflow: hidden;
+}
+
+.product-card-image img {
+  /* Ensure the image takes the full width of the container without distortion */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+}
+
+.product-card-info {
+  padding: 10px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-card-info {
+  padding-top: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.product-card-name {
+  display: flex;
+  flex-direction: column;
+  text-transform: capitalize;
+  align-items: start;
+  position: relative;
+}
+.product-card-name h3 {
+  font-size: 1.2rem;
+  margin: 0;
+  color: var(--mainColorDark);
+  padding-bottom: 20px;
+}
+
+.product-card-name p {
+  margin: 0;
+}
+
+.product-card-name h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.product-card-price {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  position: relative;
+}
+.product-card-price h3 {
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+.product-card-button {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding: 10px 0px 10px 0px;
+  color: white;
+  background-color: var(--mainColorDark);
+  border-radius: 40px;
+}

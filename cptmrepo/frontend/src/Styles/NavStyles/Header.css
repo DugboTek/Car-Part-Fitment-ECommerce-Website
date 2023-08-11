@@ -1,0 +1,99 @@
+/* Header.css */
+.header-container {
+  width: 100%;
+  position: fixed;
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: white;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+
+.header-top-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 9999;
+  padding: 10px; /* Add some internal padding */
+  box-sizing: border-box; /* Ensure padding doesn't affect the total width */
+}
+
+.header-left-container {
+  display: flex;
+  align-items: center; /* Vertically center the logo */
+}
+
+.sb-container {
+  position: inherit;
+  margin-left: 5px;
+}
+
+.header-middle-container {
+  padding-top: 10px;
+}
+
+.header-right-container {
+  display: flex;
+  align-items: center; /* Vertically center the cart and account menu */
+}
+
+.carticon-container {
+  align-items: center; /* Vertically center the cart icon */
+}
+
+.carticon-container {
+  margin-left: 20px; /* Adjusted the margin to create space between cart and account menu */
+  margin-right: 20px;
+}
+
+.header-bottom-container {
+  position: relative;
+  z-index: 3;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+
+@media (max-width: 1240px) {
+  header {
+    padding: 0;
+  }
+}
+
+/* Media query for responsive design */
+@media (max-width: 768px) {
+  .header-top-container {
+    flex-direction: column;
+    align-items: center; /* Center the elements when they stack on top of each other */
+  }
+  .header-right-container {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+  }
+  .header-right-container {
+    margin-top: 10px; /* Separate cart and account menu in mobile view */
+  }
+}
+
+@media (max-width: 1023px) {
+  .header-right-container {
+    display: none;
+  }
+  .header-left-container {
+    flex-direction: column;
+  }
+  .header-container {
+    flex-direction: row;
+    align-items: end;
+  }
+}

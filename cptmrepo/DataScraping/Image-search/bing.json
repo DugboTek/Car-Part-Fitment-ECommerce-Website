@@ -1,0 +1,1491 @@
+{
+  "_type": "Images",
+  "instrumentation": {
+    "_type": "ResponseInstrumentation"
+  },
+  "readLink": "https://api.bing.microsoft.com/api/v7/images/search?q=puppies",
+  "webSearchUrl": "https://www.bing.com/images/search?q=puppies&FORM=OIIARP",
+  "queryContext": {
+    "originalQuery": "puppies",
+    "alterationDisplayQuery": "puppies",
+    "alterationOverrideQuery": "+puppies",
+    "alterationMethod": "AM_JustChangeIt",
+    "alterationType": "CombinedAlterationsChained"
+  },
+  "totalEstimatedMatches": 430,
+  "nextOffset": 41,
+  "currentOffset": 0,
+  "value": [
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=B0095BD2E7F69545C6A3A6069B8D9309CCC41F6D&simid=608036016660830700",
+      "name": "Photo Of Pomeranian Puppies · Free Stock Photo",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.esrYcoittanw-r4V4-l8PwHaE8&pid=Api",
+      "datePublished": "2021-03-10T02:28:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://images.pexels.com/photos/4065609/pexels-photo-4065609.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "hostPageUrl": "https://www.pexels.com/photo/photo-of-pomeranian-puppies-4065609/",
+      "contentSize": "586336 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.pexels.com/photo/photo-of-pomeranian-puppies-4065609",
+      "width": 3375,
+      "height": 2250,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.OTWJk1xWx9LlWBdoF478uA&pid=Api",
+      "hostPageDomainFriendlyName": "Pexels",
+      "hostPageDiscoveredDate": "2020-05-30T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_esrYcoit*cp_94D8C63CFAE9B7EBA138026B95693CFD*mid_B0095BD2E7F69545C6A3A6069B8D9309CCC41F6D*simid_608036016660830700*thid_OIP.esrYcoittanw-r4V4-l8PwHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 25,
+        "availableSizesCount": 18
+      },
+      "imageId": "B0095BD2E7F69545C6A3A6069B8D9309CCC41F6D",
+      "accentColor": "A1402A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=E2977CCAF75FEF6F97E5664E039D1EE34DF8C392&simid=608047505689180034",
+      "name": "Free stock photo of puppies",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.-M8MZIkimnRxEISQHC-ZbAHaFj&pid=Api",
+      "datePublished": "2020-03-18T16:26:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://images.pexels.com/photos/668561/pexels-photo-668561.jpeg?cs=srgb&dl=puppies-668561.jpg&fm=jpg",
+      "hostPageUrl": "https://www.pexels.com/photo/puppies-668561/",
+      "contentSize": "1051083 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.pexels.com/photo/puppies-668561",
+      "width": 3264,
+      "height": 2448,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.OTWJk1xWx9LlWBdoF478uA&pid=Api",
+      "hostPageDomainFriendlyName": "Pexels",
+      "hostPageDiscoveredDate": "2018-03-01T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_+M8MZIki*cp_C07FD7FF3ACF1E7E1893C8F4F28B0B3D*mid_E2977CCAF75FEF6F97E5664E039D1EE34DF8C392*simid_608047505689180034*thid_OIP.-M8MZIkimnRxEISQHC-ZbAHaFj",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 2
+      },
+      "imageId": "E2977CCAF75FEF6F97E5664E039D1EE34DF8C392",
+      "accentColor": "301C10"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=381005E39D7D6C3E492F6312D663A8E401AE9602&simid=608017664262486555",
+      "name": "Chihuahua Puppy Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.VOe4lBI0oZOADZH9CaU55wHaE6&pid=Api",
+      "datePublished": "2020-12-14T18:57:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/180000/velka/chihuaua-puppy.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/view-image.php?image=171436&picture=chihuahua-puppy",
+      "contentSize": "399603 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/view-image.php?image=171436&picture=chihuahua-puppy",
+      "width": 1920,
+      "height": 1272,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-01T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 314
+      },
+      "imageInsightsToken": "ccid_VOe4lBI0*cp_88CD59314B6D2B6DDAA59FC1DC93A649*mid_381005E39D7D6C3E492F6312D663A8E401AE9602*simid_608017664262486555*thid_OIP.VOe4lBI0oZOADZH9CaU55wHaE6",
+      "insightsMetadata": {
+        "pagesIncludingCount": 33,
+        "availableSizesCount": 12
+      },
+      "imageId": "381005E39D7D6C3E492F6312D663A8E401AE9602",
+      "accentColor": "824220"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=943372D73270BD953163AE3AEC684BA96757FC31&simid=608051753441257537",
+      "name": "Boxer Puppy Cute Sad Face Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.EZfWgmNUElV6tBSU5-re-gHaIi&pid=Api",
+      "datePublished": "2018-01-31T00:04:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "http://www.publicdomainpictures.net/pictures/130000/velka/boxer-puppy-cute-sad-face.jpg",
+      "hostPageUrl": "http://www.publicdomainpictures.net/view-image.php?image=125761&picture=boxer-puppy-cute-sad-face",
+      "contentSize": "467851 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.publicdomainpictures.net/view-image.php?image=125761&picture=boxer-puppy-cute-sad-face",
+      "width": 1665,
+      "height": 1919,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-01-31T00:04:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 546
+      },
+      "imageInsightsToken": "ccid_EZfWgmNU*cp_99BD93FE75AECDDADAF6EFCDD55D0FD1*mid_943372D73270BD953163AE3AEC684BA96757FC31*simid_608051753441257537*thid_OIP.EZfWgmNUElV6tBSU5-re-gHaIi",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 11,
+        "availableSizesCount": 4
+      },
+      "imageId": "943372D73270BD953163AE3AEC684BA96757FC31",
+      "accentColor": "72462A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=5BBD118A8984A930FB0C4E2B601408E988D91845&simid=607992783534324327",
+      "name": "Free Images : white, puppy, cute, young, pets, dogs, animals ...",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.kZP6z3HkFcHdjw-F97_t5gHaJ4&pid=Api",
+      "datePublished": "2019-04-03T22:17:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://c.pxhere.com/photos/a4/a2/animals_dogs_puppies_chihuahua-1120078.jpg!d",
+      "hostPageUrl": "https://pxhere.com/en/photo/934976",
+      "contentSize": "297535 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pxhere.com/en/photo/934976",
+      "width": 1200,
+      "height": 1600,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.GDPhuR_mcuXyb-ZBF05bUg&pid=Api",
+      "hostPageDiscoveredDate": "2017-06-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 632
+      },
+      "imageInsightsToken": "ccid_kZP6z3Hk*cp_7A6370F784A5204D8E4C5939D648500A*mid_5BBD118A8984A930FB0C4E2B601408E988D91845*simid_607992783534324327*thid_OIP.kZP6z3HkFcHdjw-F97!_t5gHaJ4",
+      "insightsMetadata": {
+        "pagesIncludingCount": 17,
+        "availableSizesCount": 9
+      },
+      "imageId": "5BBD118A8984A930FB0C4E2B601408E988D91845",
+      "accentColor": "212314"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=F99CC0FBC2B2D90DD3F0F788EFF4333BD9A3B7E9&simid=608040204246323755",
+      "name": "Cute Puppies Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.I9M2OdNA8UlpCEs77sdIiwHaFr&pid=Api",
+      "datePublished": "2018-02-10T21:42:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "http://www.publicdomainpictures.net/pictures/140000/velka/cute-puppies.jpg",
+      "hostPageUrl": "http://www.publicdomainpictures.net/view-image.php?image=137964&picture=cute-puppies",
+      "contentSize": "1011910 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.publicdomainpictures.net/view-image.php?image=137964&picture=cute-puppies",
+      "width": 1920,
+      "height": 1471,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-02-10T21:42:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 363
+      },
+      "imageInsightsToken": "ccid_I9M2OdNA*cp_88159702D2BB2D153553E026AF76F29D*mid_F99CC0FBC2B2D90DD3F0F788EFF4333BD9A3B7E9*simid_608040204246323755*thid_OIP.I9M2OdNA8UlpCEs77sdIiwHaFr",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 34,
+        "availableSizesCount": 20
+      },
+      "imageId": "F99CC0FBC2B2D90DD3F0F788EFF4333BD9A3B7E9",
+      "accentColor": "976B34"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=A348B2EE1386D099EF88134EF6BC6131FA2B7A10&simid=608007725699061096",
+      "name": "Free photo: Puppies, Golden, Doggies - Free Image on Pixabay - 688425",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.TtEDJHfSP-ijIE9l5FzQSAHaFV&pid=Api",
+      "datePublished": "2015-03-25T10:41:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://cdn.pixabay.com/photo/2015/03/25/01/47/puppies-688425_960_720.jpg",
+      "hostPageUrl": "https://pixabay.com/en/puppies-golden-doggies-688425/",
+      "contentSize": "176201 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pixabay.com/en/puppies-golden-doggies-688425",
+      "width": 960,
+      "height": 692,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.D2xO1oObGb6cvqYCWBNRGQ&pid=Api",
+      "hostPageDomainFriendlyName": "Pixabay",
+      "hostPageDiscoveredDate": "2015-03-25T10:41:01.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 341
+      },
+      "imageInsightsToken": "ccid_TtEDJHfS*cp_E93CC56925764988BB9523D8177661ED*mid_A348B2EE1386D099EF88134EF6BC6131FA2B7A10*simid_608007725699061096*thid_OIP.TtEDJHfSP-ijIE9l5FzQSAHaFV",
+      "insightsMetadata": {
+        "pagesIncludingCount": 66,
+        "availableSizesCount": 29
+      },
+      "imageId": "A348B2EE1386D099EF88134EF6BC6131FA2B7A10",
+      "accentColor": "AE371D"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=4E4CC03095B82B4AF5BA654AF35E20EE5D362EE8&simid=607999174430558850",
+      "name": "Pug Puppy Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.Q18ocH7hbag65zuWapczNQHaE8&pid=Api",
+      "datePublished": "2018-03-09T00:04:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/240000/velka/pug-puppy.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/en/view-image.php?image=232092&picture=pug-puppy",
+      "contentSize": "581986 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/en/view-image.php?image=232092&picture=pug-puppy",
+      "width": 1920,
+      "height": 1280,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-09T00:04:32.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_Q18ocH7h*cp_74C0602B20FFC3D86F1BBD936EB5577D*mid_4E4CC03095B82B4AF5BA654AF35E20EE5D362EE8*simid_607999174430558850*thid_OIP.Q18ocH7hbag65zuWapczNQHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 12,
+        "availableSizesCount": 7
+      },
+      "imageId": "4E4CC03095B82B4AF5BA654AF35E20EE5D362EE8",
+      "accentColor": "604C3A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=EBD705BEF5F7B067769B9F14DD899470D1781F07&simid=608008992714275635",
+      "name": "Pug Puppy Dog - Free photo on Pixabay",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.9ois6HARzonFd0FGSc_3XAHaE7&pid=Api",
+      "datePublished": "2019-06-15T21:47:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://cdn.pixabay.com/photo/2018/07/28/10/02/pug-3567638_1280.jpg",
+      "hostPageUrl": "https://pixabay.com/photos/pug-puppy-dog-animal-cute-pet-3567638/",
+      "contentSize": "212889 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pixabay.com/photos/pug-puppy-dog-animal-cute-pet-3567638",
+      "width": 1280,
+      "height": 853,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.D2xO1oObGb6cvqYCWBNRGQ&pid=Api",
+      "hostPageDomainFriendlyName": "Pixabay",
+      "hostPageDiscoveredDate": "2019-04-30T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 315
+      },
+      "imageInsightsToken": "ccid_9ois6HAR*cp_544F256DF2152EA152B35A254496E56B*mid_EBD705BEF5F7B067769B9F14DD899470D1781F07*simid_608008992714275635*thid_OIP.9ois6HARzonFd0FGSc!_3XAHaE7",
+      "insightsMetadata": {
+        "pagesIncludingCount": 16,
+        "availableSizesCount": 6
+      },
+      "imageId": "EBD705BEF5F7B067769B9F14DD899470D1781F07",
+      "accentColor": "674C26"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=AC6E95EF5F9BDF0C5B929DB0997722E47FC251CC&simid=608020520412986302",
+      "name": "Cute Puppies @ December 20, 2015 at 12:13PM | Get our cute d… | Flickr",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.clBiipRU67_XBfShUdmMFgHaHY&pid=Api",
+      "datePublished": "2015-12-20T07:43:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://c2.staticflickr.com/6/5643/23778807571_e9649ee35e_b.jpg",
+      "hostPageUrl": "https://www.flickr.com/photos/136292790@N05/23778807571",
+      "contentSize": "126179 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.flickr.com/photos/136292790@N05/23778807571",
+      "width": 1004,
+      "height": 1000,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.0PSTqkFDjauZ3NeKFpF6wA&pid=Api",
+      "hostPageDomainFriendlyName": "Flickr",
+      "hostPageDiscoveredDate": "2015-12-20T07:43:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 472
+      },
+      "imageInsightsToken": "ccid_clBiipRU*cp_18F73D8DFDBE4A416C3033E9B4619247*mid_AC6E95EF5F9BDF0C5B929DB0997722E47FC251CC*simid_608020520412986302*thid_OIP.clBiipRU67!_XBfShUdmMFgHaHY",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 4
+      },
+      "imageId": "AC6E95EF5F9BDF0C5B929DB0997722E47FC251CC",
+      "accentColor": "2C2414"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=EBD51F8A33E32CEFCD69EDA844159CB3A9A2618D&simid=607995313271502306",
+      "name": "Puppies Coton De Tulear Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.SMPSbJqCRbhOQFjMAthrlwHaFj&pid=Api",
+      "datePublished": "2021-07-08T16:12:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/220000/velka/chiots-coton-de-tulear.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/view-image.php?image=215642&picture=",
+      "contentSize": "1331810 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/view-image.php?image=215642&picture=",
+      "width": 1920,
+      "height": 1440,
+      "hostPageDiscoveredDate": "2018-06-04T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_SMPSbJqC*cp_4488605BF187143C1DA8D73488F284A7*mid_EBD51F8A33E32CEFCD69EDA844159CB3A9A2618D*simid_607995313271502306*thid_OIP.SMPSbJqCRbhOQFjMAthrlwHaFj",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 19,
+        "availableSizesCount": 10
+      },
+      "imageId": "EBD51F8A33E32CEFCD69EDA844159CB3A9A2618D",
+      "accentColor": "1C2E0A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=D5F10422DF1AAAC927E374BE54D4759EC3531F4F&simid=608037154833259642",
+      "name": "Free photo Canine Pet Young Cute Puppy Dog Animal Puppies - Max Pixel",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.HcvDqPg4l3JP6WMJvQETZgHaE8&pid=Api",
+      "datePublished": "2019-09-26T19:53:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.maxpixel.net/static/photo/1x/Canine-Pet-Young-Cute-Puppy-Dog-Animal-Puppies-3494447.jpg",
+      "hostPageUrl": "https://www.maxpixel.net/Canine-Pet-Young-Cute-Puppy-Dog-Animal-Puppies-3494447",
+      "contentSize": "149004 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.maxpixel.net/Canine-Pet-Young-Cute-Puppy-Dog-Animal-Puppies-3494447",
+      "width": 960,
+      "height": 640,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.0EKUdQPKg0OVnlPgmH4rfA&pid=Api",
+      "hostPageDiscoveredDate": "2018-10-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_HcvDqPg4*cp_2CE93A06FDBF2344E79ABFCF1F0E5429*mid_D5F10422DF1AAAC927E374BE54D4759EC3531F4F*simid_608037154833259642*thid_OIP.HcvDqPg4l3JP6WMJvQETZgHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 24,
+        "availableSizesCount": 19
+      },
+      "imageId": "D5F10422DF1AAAC927E374BE54D4759EC3531F4F",
+      "accentColor": "634034"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=A1660684AC5FF47CA61B2BA608ACA927B10C1F61&simid=608038413233126710",
+      "name": "Cute Puppies Playing Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.UCRktcRXucbirBLEECY7-wHaFb&pid=Api",
+      "datePublished": "2021-04-11T09:35:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/40000/velka/cute-puppies-playing.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/view-image.php?image=34209&picture=cute-puppies-playing",
+      "contentSize": "660932 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/view-image.php?image=34209&picture=cute-puppies...",
+      "width": 1920,
+      "height": 1408,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-04T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 347
+      },
+      "imageInsightsToken": "ccid_UCRktcRX*cp_7EFBA2F7482C92E4E2A8F809A388E44C*mid_A1660684AC5FF47CA61B2BA608ACA927B10C1F61*simid_608038413233126710*thid_OIP.UCRktcRXucbirBLEECY7-wHaFb",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 15,
+        "availableSizesCount": 8
+      },
+      "imageId": "A1660684AC5FF47CA61B2BA608ACA927B10C1F61",
+      "accentColor": "4B6924"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=5776ED6FFDBE9E14EB7F3D18DAEC130A80C42481&simid=608055176489358326",
+      "name": "Free stock photo of cute, dogs, puppies",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.AmeNYP-78cSYI6otTPXc_QHaE8&pid=Api",
+      "datePublished": "2021-04-10T06:59:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://images.pexels.com/photos/1925102/pexels-photo-1925102.jpeg?cs=srgb&dl=pexels-ashley-wang-1925102.jpg&fm=jpg",
+      "hostPageUrl": "https://www.pexels.com/photo/cute-dogs-puppies-puppy-1925102/",
+      "contentSize": "3439251 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.pexels.com/photo/cute-dogs-puppies-puppy-1925102",
+      "width": 6000,
+      "height": 4000,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.OTWJk1xWx9LlWBdoF478uA&pid=Api",
+      "hostPageDomainFriendlyName": "Pexels",
+      "hostPageDiscoveredDate": "2020-01-07T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_AmeNYP+7*cp_65EF378D0961B2D9D898AB4FC5A704B5*mid_5776ED6FFDBE9E14EB7F3D18DAEC130A80C42481*simid_608055176489358326*thid_OIP.AmeNYP-78cSYI6otTPXc!_QHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "5776ED6FFDBE9E14EB7F3D18DAEC130A80C42481",
+      "accentColor": "684930"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=3027A19833E4EFFC1FD8B8618304EF8E32F3C424&simid=608021675746081524",
+      "name": "Puppies Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.GQEqKIx0TD_AkcpqrS5rQgHaLH&pid=Api",
+      "datePublished": "2018-02-18T19:02:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "http://www.publicdomainpictures.net/pictures/40000/velka/puppies.jpg",
+      "hostPageUrl": "http://www.publicdomainpictures.net/view-image.php?image=38920&picture=puppies",
+      "contentSize": "415399 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.publicdomainpictures.net/view-image.php?image=38920&picture=puppies",
+      "width": 1280,
+      "height": 1920,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-02-18T19:02:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 711
+      },
+      "imageInsightsToken": "ccid_GQEqKIx0*cp_EE07BEA799790E9FC9080A92D2434AA2*mid_3027A19833E4EFFC1FD8B8618304EF8E32F3C424*simid_608021675746081524*thid_OIP.GQEqKIx0TD!_AkcpqrS5rQgHaLH",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 2
+      },
+      "imageId": "3027A19833E4EFFC1FD8B8618304EF8E32F3C424",
+      "accentColor": "896B42"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=8D84EC84E8CBBFFC12C2BF9F688D45BB18B9F715&simid=608019210452611437",
+      "name": "Puppies Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.HghJ-BdJUvKYjoe74fX20AHaE9&pid=Api",
+      "datePublished": "2021-03-18T08:30:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/50000/velka/puppies-137008012119r.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/view-image.php?image=41995&picture=puppies",
+      "contentSize": "358159 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/view-image.php?image=41995&picture=puppies",
+      "width": 1920,
+      "height": 1285,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-10T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 317
+      },
+      "imageInsightsToken": "ccid_HghJ+BdJ*cp_0AE481081C580722217B4ACD5236D63D*mid_8D84EC84E8CBBFFC12C2BF9F688D45BB18B9F715*simid_608019210452611437*thid_OIP.HghJ-BdJUvKYjoe74fX20AHaE9",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 10,
+        "availableSizesCount": 7
+      },
+      "imageId": "8D84EC84E8CBBFFC12C2BF9F688D45BB18B9F715",
+      "accentColor": "976B34"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=56A426D1B53EE1836E5F18240AD4BE4340F28EBE&simid=608050172852457394",
+      "name": "Boxer Puppy - Free Stock Photos ::: LibreShot",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.C4ZjcJpb8ISsrZrge5BJgQHaFj&pid=Api",
+      "datePublished": "2017-01-08T22:03:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "http://libreshot.com/wp-content/uploads/2014/09/puppy-boxer.jpg",
+      "hostPageUrl": "http://libreshot.com/boxer-puppy-2/",
+      "contentSize": "988760 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "libreshot.com/boxer-puppy-2",
+      "width": 2816,
+      "height": 2112,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.-2ERIjH9Ac5K41VLwHNBFg&pid=Api",
+      "hostPageDiscoveredDate": "2017-01-08T22:03:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_C4ZjcJpb*cp_9EA6DB3EC4B78369B47D2DE669A73BAA*mid_56A426D1B53EE1836E5F18240AD4BE4340F28EBE*simid_608050172852457394*thid_OIP.C4ZjcJpb8ISsrZrge5BJgQHaFj",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 3,
+        "availableSizesCount": 2
+      },
+      "imageId": "56A426D1B53EE1836E5F18240AD4BE4340F28EBE",
+      "accentColor": "63431D"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=7DA37A5172263F299A89333A8E877D28E168AD89&simid=608044787007568442",
+      "name": "Free photo Brown Dachshund Puppies Pup Puppy Litter Dog - Max Pixel",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.oOA5lM8zfXD9XGWPYE0EFQHaE6&pid=Api",
+      "datePublished": "2021-03-17T21:17:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.maxpixel.net/static/photo/1x/Brown-Dachshund-Puppies-Pup-Puppy-Litter-Dog-3687656.jpg",
+      "hostPageUrl": "https://www.maxpixel.net/Dog-Brown-Dachshund-Puppy-Pup-Puppies-Litter-3687656",
+      "contentSize": "139922 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.maxpixel.net/Dog-Brown-Dachshund-Puppy-Pup-Puppies-Litter-3687656",
+      "width": 960,
+      "height": 636,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.0EKUdQPKg0OVnlPgmH4rfA&pid=Api",
+      "hostPageDiscoveredDate": "2018-11-30T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 314
+      },
+      "imageInsightsToken": "ccid_oOA5lM8z*cp_39580F85DE7D70E8871ACB3F6D6A976D*mid_7DA37A5172263F299A89333A8E877D28E168AD89*simid_608044787007568442*thid_OIP.oOA5lM8zfXD9XGWPYE0EFQHaE6",
+      "insightsMetadata": {
+        "pagesIncludingCount": 110,
+        "availableSizesCount": 84
+      },
+      "imageId": "7DA37A5172263F299A89333A8E877D28E168AD89",
+      "accentColor": "71411A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=733A52DF8B3955C4B96FFF2DE11478B429EBCF03&simid=608031459691869628",
+      "name": "Small Pug Puppy Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.jivzKVjnXWZYs25cd_5a7gHaE3&pid=Api",
+      "datePublished": "2018-04-02T21:04:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/240000/velka/small-pug-puppy.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/en/view-image.php?image=232093&picture=small-pug-puppy",
+      "contentSize": "817688 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/en/view-image.php?image=232093&picture=small-pug...",
+      "width": 1920,
+      "height": 1261,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-21T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 311
+      },
+      "imageInsightsToken": "ccid_jivzKVjn*cp_47968EB820726DC147F25106BFC5381C*mid_733A52DF8B3955C4B96FFF2DE11478B429EBCF03*simid_608031459691869628*thid_OIP.jivzKVjnXWZYs25cd!_5a7gHaE3",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 5,
+        "availableSizesCount": 2
+      },
+      "imageId": "733A52DF8B3955C4B96FFF2DE11478B429EBCF03",
+      "accentColor": "4F5C6A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=F68F9AAD821010158003F53641B5ECDBE76E1C95&simid=608027628590484529",
+      "name": "HD wallpaper: animal, baby, cute, dogs, puppies, small, together ...",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.Pd4hoyBeYFRcZewiMpmMmwHaFO&pid=Api",
+      "datePublished": "2021-05-23T12:27:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://c4.wallpaperflare.com/wallpaper/401/291/617/dogs-spitz-animal-baby-animal-wallpaper-preview.jpg",
+      "hostPageUrl": "https://www.wallpaperflare.com/animal-baby-cute-dogs-puppies-small-together-wallpaper-upzyx",
+      "contentSize": "65692 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.wallpaperflare.com/animal-baby-cute-dogs-puppies-small-together-wallpaper...",
+      "width": 728,
+      "height": 513,
+      "hostPageDiscoveredDate": "2020-05-04T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 334
+      },
+      "imageInsightsToken": "ccid_Pd4hoyBe*cp_895E9A94A7D7D4343207FE122F2794D2*mid_F68F9AAD821010158003F53641B5ECDBE76E1C95*simid_608027628590484529*thid_OIP.Pd4hoyBeYFRcZewiMpmMmwHaFO",
+      "insightsMetadata": {
+        "pagesIncludingCount": 133,
+        "availableSizesCount": 31
+      },
+      "imageId": "F68F9AAD821010158003F53641B5ECDBE76E1C95",
+      "accentColor": "B54D16"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=D2DF19896021E119DBB06651206E2319CE681358&simid=608012755119527611",
+      "name": "Gratis Afbeeldingen : bokeh, warm, puppy, dier, huisdier, achtererf ...",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.nDTQWu70PDU-zEEl2rQO3wHaLI&pid=Api",
+      "datePublished": "2021-04-23T18:32:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://get.pxhere.com/photo/bokeh-warm-puppy-dog-animal-pet-backyard-mammal-playing-pets-dogs-ball-vertebrate-dog-breed-lhasa-apso-puppies-maltese-bichon-close-up-view-bichon-frise-bolognese-coton-de-tulear-havanese-dog-like-mammal-carnivoran-dog-breed-group-schnoodle-dog-crossbreeds-tibetan-spaniel-cavachon-chinese-imperial-dog-1177517.jpg",
+      "hostPageUrl": "https://pxhere.com/nl/photo/1177517",
+      "contentSize": "4465331 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pxhere.com/nl/photo/1177517",
+      "width": 4000,
+      "height": 6016,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.GDPhuR_mcuXyb-ZBF05bUg&pid=Api",
+      "hostPageDiscoveredDate": "2017-11-17T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 712
+      },
+      "imageInsightsToken": "ccid_nDTQWu70*cp_1E86C14CFFFDF0FD2EA66F5F8765ABF6*mid_D2DF19896021E119DBB06651206E2319CE681358*simid_608012755119527611*thid_OIP.nDTQWu70PDU-zEEl2rQO3wHaLI",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 38,
+        "availableSizesCount": 25
+      },
+      "imageId": "D2DF19896021E119DBB06651206E2319CE681358",
+      "accentColor": "40382A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=4325B67D65610891AD4D310B6911B3D0B0759D15&simid=608004830862982502",
+      "name": "Free photo Pet Puppies Cute Pug Puppy Dog Animal Adorable - Max Pixel",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.wmdNudOBjNSvQeOS5aE7OQHaE8&pid=Api",
+      "datePublished": "2019-09-06T10:15:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.maxpixel.net/static/photo/1x/Pet-Puppies-Cute-Pug-Puppy-Dog-Animal-Adorable-3567637.jpg",
+      "hostPageUrl": "https://www.maxpixel.net/Pet-Puppies-Cute-Pug-Puppy-Dog-Animal-Adorable-3567637",
+      "contentSize": "103976 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.maxpixel.net/Pet-Puppies-Cute-Pug-Puppy-Dog-Animal-Adorable-3567637",
+      "width": 960,
+      "height": 640,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.0EKUdQPKg0OVnlPgmH4rfA&pid=Api",
+      "hostPageDiscoveredDate": "2018-11-05T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_wmdNudOB*cp_CA12C1DD686D86C0CF4F4818790E8431*mid_4325B67D65610891AD4D310B6911B3D0B0759D15*simid_608004830862982502*thid_OIP.wmdNudOBjNSvQeOS5aE7OQHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 19,
+        "availableSizesCount": 15
+      },
+      "imageId": "4325B67D65610891AD4D310B6911B3D0B0759D15",
+      "accentColor": "8E683D"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=782A0FA032E5E9C1FEE7EE4725D43A204E70D36E&simid=607986873671749732",
+      "name": "Free Images : nature, white, home, puppy, animal, cute, pet, portrait ...",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.yW2I6TkZYl8Io_RtnevA2wHaE8&pid=Api",
+      "datePublished": "2020-09-03T19:39:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://get.pxhere.com/photo/nature-white-home-puppy-dog-animal-cute-pet-portrait-young-small-studio-brown-mammal-black-thoroughbred-dogs-one-background-happy-safety-vertebrate-beautiful-dog-breed-meringue-puppies-rottweiler-family-tree-a-little-k-9-dog-like-mammal-carnivoran-705574.jpg",
+      "hostPageUrl": "https://pxhere.com/en/photo/705574",
+      "contentSize": "1702591 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pxhere.com/en/photo/705574",
+      "width": 5184,
+      "height": 3456,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.GDPhuR_mcuXyb-ZBF05bUg&pid=Api",
+      "hostPageDiscoveredDate": "2017-10-10T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_yW2I6TkZ*cp_7D0DE0EF5A71117947827F874721C4AB*mid_782A0FA032E5E9C1FEE7EE4725D43A204E70D36E*simid_607986873671749732*thid_OIP.yW2I6TkZYl8Io!_RtnevA2wHaE8",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 68,
+        "availableSizesCount": 40
+      },
+      "imageId": "782A0FA032E5E9C1FEE7EE4725D43A204E70D36E",
+      "accentColor": "AB8420"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=5B0D653DC047FC2BE42CE7BC18130B4E19296586&simid=608001038408827577",
+      "name": "New Tiny Boxer Puppies Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._dj10A-sokeBB9GlWWmhIQHaFj&pid=Api",
+      "datePublished": "2021-02-25T17:52:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/50000/velka/new-tiny-boxer-puppies.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/view-image.php?image=41972&picture=new-tiny-boxer-puppies",
+      "contentSize": "906484 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/view-image.php?image=41972&picture=new-tiny-boxer...",
+      "width": 1920,
+      "height": 1440,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-03T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_/dj10A+s*cp_94DBB4869C9CA17122E5F2FF0AD01E74*mid_5B0D653DC047FC2BE42CE7BC18130B4E19296586*simid_608001038408827577*thid_OIP.!_dj10A-sokeBB9GlWWmhIQHaFj",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 6,
+        "availableSizesCount": 3
+      },
+      "imageId": "5B0D653DC047FC2BE42CE7BC18130B4E19296586",
+      "accentColor": "A56726"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=EE4C865559902F1AE2828A642F5F7A10A2E5554F&simid=608040891433578052",
+      "name": "Free photo: Dogs, Puppies, Play, Two, Group - Free Image on Pixabay ...",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.CP_65aNR1g3qkmnd1AicLwHaFW&pid=Api",
+      "datePublished": "2001-01-01T00:00:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://cdn.pixabay.com/photo/2016/02/19/14/14/dogs-1210323_960_720.jpg",
+      "hostPageUrl": "https://pixabay.com/en/dogs-puppies-play-two-group-1210323/",
+      "contentSize": "268836 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pixabay.com/en/dogs-puppies-play-two-group-1210323",
+      "width": 960,
+      "height": 693,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.D2xO1oObGb6cvqYCWBNRGQ&pid=Api",
+      "hostPageDomainFriendlyName": "Pixabay",
+      "hostPageDiscoveredDate": "2001-01-01T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 342
+      },
+      "imageInsightsToken": "ccid_CP/65aNR*cp_811FFB285F589929989109ACA3E565C1*mid_EE4C865559902F1AE2828A642F5F7A10A2E5554F*simid_608040891433578052*thid_OIP.CP!_65aNR1g3qkmnd1AicLwHaFW",
+      "insightsMetadata": {
+        "pagesIncludingCount": 113,
+        "availableSizesCount": 50
+      },
+      "imageId": "EE4C865559902F1AE2828A642F5F7A10A2E5554F",
+      "accentColor": "4A621A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=46821A8A8CF7BD5FA5B587FBADEDCF158F27A596&simid=608016349998317479",
+      "name": "Sleeping Puppy Face Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.xi5hgNpB82wGii6E7XDNJgHaE8&pid=Api",
+      "datePublished": "2018-10-26T03:35:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/280000/velka/sleeping-puppy-face.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/en/view-image.php?image=273051&picture=sleeping-puppy-face",
+      "contentSize": "925747 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/en/view-image.php?image=273051&picture=sleeping...",
+      "width": 1920,
+      "height": 1281,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-10-26T03:35:32.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_xi5hgNpB*cp_64BAA5A46CD0F7B1AF23A931D0B4409B*mid_46821A8A8CF7BD5FA5B587FBADEDCF158F27A596*simid_608016349998317479*thid_OIP.xi5hgNpB82wGii6E7XDNJgHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 4,
+        "availableSizesCount": 4
+      },
+      "imageId": "46821A8A8CF7BD5FA5B587FBADEDCF158F27A596",
+      "accentColor": "5D4D41"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=3D565A66B6EECCFF4259D6CE9530965F4E44447D&simid=608029140412749573",
+      "name": "Kostenloses Foto: Welpen, Hund, Golden Retriever - Kostenloses Bild auf ...",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.nsj4DhPb_8VdTlm-KBMsPgHaE8&pid=Api",
+      "datePublished": "2017-12-30T04:16:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://cdn.pixabay.com/photo/2016/11/29/20/58/puppies-1871261_960_720.jpg",
+      "hostPageUrl": "https://pixabay.com/de/welpen-hund-golden-retriever-1871261/",
+      "contentSize": "142760 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pixabay.com/de/welpen-hund-golden-retriever-1871261",
+      "width": 960,
+      "height": 640,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.D2xO1oObGb6cvqYCWBNRGQ&pid=Api",
+      "hostPageDomainFriendlyName": "Pixabay",
+      "hostPageDiscoveredDate": "2017-12-30T04:16:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_nsj4DhPb*cp_8E743AF95DC9AD848E11B4F54533C2B3*mid_3D565A66B6EECCFF4259D6CE9530965F4E44447D*simid_608029140412749573*thid_OIP.nsj4DhPb!_8VdTlm-KBMsPgHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 50,
+        "availableSizesCount": 24
+      },
+      "imageId": "3D565A66B6EECCFF4259D6CE9530965F4E44447D",
+      "accentColor": "719B30"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=F92AFC8FED37D0DDFE4D0A41C02A2970D655331D&simid=608033255007803306",
+      "name": "Puppies Litter Sleeping on Bed · Free Stock Photo",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.kRB7D7La4oVDefR1ryjWbQHaE7&pid=Api",
+      "datePublished": "2021-04-23T03:23:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://images.pexels.com/photos/3198033/pexels-photo-3198033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "hostPageUrl": "https://www.pexels.com/photo/puppies-litter-sleeping-on-bed-3198033/",
+      "contentSize": "123243 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.pexels.com/photo/puppies-litter-sleeping-on-bed-3198033",
+      "width": 1880,
+      "height": 1253,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.OTWJk1xWx9LlWBdoF478uA&pid=Api",
+      "hostPageDomainFriendlyName": "Pexels",
+      "hostPageDiscoveredDate": "2019-12-04T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 315
+      },
+      "imageInsightsToken": "ccid_kRB7D7La*cp_64B05ADBE37FD0DCFE418938AFB915D0*mid_F92AFC8FED37D0DDFE4D0A41C02A2970D655331D*simid_608033255007803306*thid_OIP.kRB7D7La4oVDefR1ryjWbQHaE7",
+      "insightsMetadata": {
+        "pagesIncludingCount": 4,
+        "availableSizesCount": 5
+      },
+      "imageId": "F92AFC8FED37D0DDFE4D0A41C02A2970D655331D",
+      "accentColor": "7D5D4E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=E921FC8BEFC0D3F116B6C7982F84C4B628854B65&simid=608014056505823764",
+      "name": "Pets Puppies Animals · Free photo on Pixabay",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.1l30yO341t-l69OJ2Y9tjwHaFj&pid=Api",
+      "datePublished": "2016-02-13T04:18:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://cdn.pixabay.com/photo/2015/05/06/20/06/pets-755701_960_720.jpg",
+      "hostPageUrl": "https://pixabay.com/en/pets-puppies-animals-puppy-mammals-755701/",
+      "contentSize": "208867 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pixabay.com/en/pets-puppies-animals-puppy-mammals-755701",
+      "width": 960,
+      "height": 720,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.D2xO1oObGb6cvqYCWBNRGQ&pid=Api",
+      "hostPageDomainFriendlyName": "Pixabay",
+      "hostPageDiscoveredDate": "2016-02-13T04:18:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_1l30yO34*cp_0D9941DB594657BE4159A6FC28681CF0*mid_E921FC8BEFC0D3F116B6C7982F84C4B628854B65*simid_608014056505823764*thid_OIP.1l30yO341t-l69OJ2Y9tjwHaFj",
+      "insightsMetadata": {
+        "pagesIncludingCount": 12,
+        "availableSizesCount": 9
+      },
+      "imageId": "E921FC8BEFC0D3F116B6C7982F84C4B628854B65",
+      "accentColor": "A14D2A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=E878B86F715C407AC4F282A547C40B77AF5EB8BE&simid=608051216558414338",
+      "name": "Two Yellow Labrador Retriever Puppies · Free Stock Photo",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.Sukc_Rd0K5wiu5O3gAFz-wHaJ4&pid=Api",
+      "datePublished": "2018-08-28T21:06:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://images.pexels.com/photos/1078090/pexels-photo-1078090.jpeg?cs=srgb&dl=animal-dog-pet-1078090.jpg&fm=jpg",
+      "hostPageUrl": "https://www.pexels.com/photo/two-yellow-labrador-retriever-puppies-1108099/",
+      "contentSize": "1784728 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.pexels.com/photo/two-yellow-labrador-retriever-puppies-1108099",
+      "width": 3024,
+      "height": 4032,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.OTWJk1xWx9LlWBdoF478uA&pid=Api",
+      "hostPageDomainFriendlyName": "Pexels",
+      "hostPageDiscoveredDate": "2018-05-30T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 632
+      },
+      "imageInsightsToken": "ccid_Sukc/Rd0*cp_C8B5FFC906A052A44B804522284D12D1*mid_E878B86F715C407AC4F282A547C40B77AF5EB8BE*simid_608051216558414338*thid_OIP.Sukc!_Rd0K5wiu5O3gAFz-wHaJ4",
+      "insightsMetadata": {
+        "pagesIncludingCount": 41,
+        "availableSizesCount": 16
+      },
+      "imageId": "E878B86F715C407AC4F282A547C40B77AF5EB8BE",
+      "accentColor": "926839"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=A9D0F3EE82D6ECAECFE4F5CF93356B803638B0D7&simid=607988222295150634",
+      "name": "Dogs Puppies Golden Retriever Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.f3wzaSjj7Ry5Rt2npDKDtAHaFU&pid=Api",
+      "datePublished": "2017-05-29T11:42:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "http://www.publicdomainpictures.net/pictures/220000/velka/chiens-chiots-golden-retriever.jpg",
+      "hostPageUrl": "http://www.publicdomainpictures.net/view-image.php?image=214875&picture=dogs-puppies-golden-retriever",
+      "contentSize": "810336 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.publicdomainpictures.net/view-image.php?image=214875&picture=dogs-puppies-golden...",
+      "width": 1920,
+      "height": 1379,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2017-05-29T11:42:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 340
+      },
+      "imageInsightsToken": "ccid_f3wzaSjj*cp_112138F6EDB6B7AE7894B76D2A7B06FD*mid_A9D0F3EE82D6ECAECFE4F5CF93356B803638B0D7*simid_607988222295150634*thid_OIP.f3wzaSjj7Ry5Rt2npDKDtAHaFU",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 158,
+        "availableSizesCount": 100
+      },
+      "imageId": "A9D0F3EE82D6ECAECFE4F5CF93356B803638B0D7",
+      "accentColor": "252906"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=E878B86F715C407AC4F21990EC5CC6F790803773&simid=608033886376628444",
+      "name": "Two Yellow Labrador Retriever Puppies · Free Stock Photo",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.hHZNjGes0EX_QRbLPm36aAHaE8&pid=Api",
+      "datePublished": "2019-05-04T20:00:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://images.pexels.com/photos/2125049/pexels-photo-2125049.jpeg?cs=srgb&dl=animal-black-dog-breed-2125049.jpg&fm=jpg",
+      "hostPageUrl": "https://www.pexels.com/photo/two-yellow-labrador-retriever-puppies-1108099/",
+      "contentSize": "2447482 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.pexels.com/photo/two-yellow-labrador-retriever-puppies-1108099",
+      "width": 5184,
+      "height": 3456,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.OTWJk1xWx9LlWBdoF478uA&pid=Api",
+      "hostPageDomainFriendlyName": "Pexels",
+      "hostPageDiscoveredDate": "2018-05-30T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_hHZNjGes*cp_91B9D274874C33BEC979C4E0B196683C*mid_E878B86F715C407AC4F21990EC5CC6F790803773*simid_608033886376628444*thid_OIP.hHZNjGes0EX!_QRbLPm36aAHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 6,
+        "availableSizesCount": 4
+      },
+      "imageId": "E878B86F715C407AC4F21990EC5CC6F790803773",
+      "accentColor": "7D664E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=BB4A45AD0194AAB036D80D624F177174B917F98E&simid=608000063476874872",
+      "name": "Puppy Free Stock Photo - Public Domain Pictures",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.CTjQKMw5K_59DvAI8Kc9dwHaE1&pid=Api",
+      "datePublished": "2021-04-25T10:51:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.publicdomainpictures.net/pictures/220000/velka/puppy-1493055047qK0.jpg",
+      "hostPageUrl": "https://www.publicdomainpictures.net/view-image.php?image=211518&picture=puppy",
+      "contentSize": "880897 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.publicdomainpictures.net/view-image.php?image=211518&picture=puppy",
+      "width": 1920,
+      "height": 1253,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.lPqrhQa5EO7xJHf8DMqrJw&pid=Api",
+      "hostPageDiscoveredDate": "2018-03-06T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 309
+      },
+      "imageInsightsToken": "ccid_CTjQKMw5*cp_62CD30726DC49AAE4D69FF255AE0192C*mid_BB4A45AD0194AAB036D80D624F177174B917F98E*simid_608000063476874872*thid_OIP.CTjQKMw5K!_59DvAI8Kc9dwHaE1",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 2
+      },
+      "imageId": "BB4A45AD0194AAB036D80D624F177174B917F98E",
+      "accentColor": "67482F"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=795AF2BEF47DE6107BF412AF9B97A5C643F39DA1&simid=608033014490877329",
+      "name": "Free photo Stretch Puppies Golden Retriever Dog - Max Pixel",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.dq0OJFpqHRMmmqaw9NZj6AHaE8&pid=Api",
+      "datePublished": "2019-08-22T22:14:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://www.maxpixel.net/static/photo/1x/Stretch-Puppies-Golden-Retriever-Dog-1871263.jpg",
+      "hostPageUrl": "https://www.maxpixel.net/Stretch-Puppies-Golden-Retriever-Dog-1871263",
+      "contentSize": "137257 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.maxpixel.net/Stretch-Puppies-Golden-Retriever-Dog-1871263",
+      "width": 960,
+      "height": 640,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.0EKUdQPKg0OVnlPgmH4rfA&pid=Api",
+      "hostPageDiscoveredDate": "2018-05-15T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_dq0OJFpq*cp_E9ACA6EA242CA73E4BD308C08447C485*mid_795AF2BEF47DE6107BF412AF9B97A5C643F39DA1*simid_608033014490877329*thid_OIP.dq0OJFpqHRMmmqaw9NZj6AHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 273,
+        "availableSizesCount": 102
+      },
+      "imageId": "795AF2BEF47DE6107BF412AF9B97A5C643F39DA1",
+      "accentColor": "C10922"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=puppies&id=6DA8A7D1AFCE3F69016F299CFD24BC47FF4D2222&simid=608025545526742424",
+      "name": "Nursing puppies | Free Stock Photo | LibreShot",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.FtbPgkPjM4I8gNmIhoAP3gHaE8&pid=Api",
+      "datePublished": "2021-08-14T04:44:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "PublicNoRightsReserved",
+      "contentUrl": "https://libreshot.com/wp-content/uploads/2019/01/puppies-breastfeeding-1536x1024.jpg",
+      "hostPageUrl": "https://libreshot.com/nursing-puppies/",
+      "contentSize": "359907 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://libreshot.com/nursing-puppies",
+      "width": 1536,
+      "height": 1024,
+      "hostPageDiscoveredDate": "2019-01-11T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_FtbPgkPj*cp_39400A7B7AE3DD7081EA3B7305B66B66*mid_6DA8A7D1AFCE3F69016F299CFD24BC47FF4D2222*simid_608025545526742424*thid_OIP.FtbPgkPjM4I8gNmIhoAP3gHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 9,
+        "availableSizesCount": 10
+      },
+      "imageId": "6DA8A7D1AFCE3F69016F299CFD24BC47FF4D2222",
+      "accentColor": "936338"
+    }
+  ],
+  "queryExpansions": [
+    {
+      "text": "Boxer Puppies",
+      "displayText": "Boxer",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Boxer+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Boxer%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Boxer+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Boxer%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Boxer+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Cutest Puppies",
+      "displayText": "Cutest",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Cutest+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cutest%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cutest+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cutest%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Cutest+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Small Puppies",
+      "displayText": "Small",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Small+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Small%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Small+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Small%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Small+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Funny Puppies",
+      "displayText": "Funny",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Funny+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Funny%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Funny+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Funny%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Funny+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Toy Puppies",
+      "displayText": "Toy Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Toy+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Toy+Puppies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Toy+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Toy+Puppies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Toy+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Happy Puppies",
+      "displayText": "Happy",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Happy+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Happy%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Happy+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Happy%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Happy+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Schnauzer Puppies",
+      "displayText": "Schnauzer",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Schnauzer+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Schnauzer%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Schnauzer+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Schnauzer%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Schnauzer+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Black Lab Puppies",
+      "displayText": "Black Lab",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Black+Lab+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Black+Lab%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Black+Lab+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Black+Lab%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Black+Lab+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Golden Puppies",
+      "displayText": "Golden",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Golden+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Golden%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Golden+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Golden%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Golden+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Yellow Lab Puppies",
+      "displayText": "Yellow Lab",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Yellow+Lab+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Yellow+Lab%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Yellow+Lab+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Yellow+Lab%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Yellow+Lab+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Pit Bull Puppies",
+      "displayText": "PitBull",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Pit+Bull+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PitBull%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pit+Bull+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PitBull%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Pit+Bull+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Super Cute Puppies",
+      "displayText": "Super Cute Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Super+Cute+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Super+Cute+Puppies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Super+Cute+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Super+Cute+Puppies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Super+Cute+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Puppies Love",
+      "displayText": "Love",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Puppies+Love&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Love%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Puppies+Love&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Love%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Puppies+Love&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Chihuahua Puppies",
+      "displayText": "Chihuahua",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Chihuahua+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chihuahua%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Chihuahua+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chihuahua%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Chihuahua+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Bulldog Puppies",
+      "displayText": "Bulldog",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Bulldog+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bulldog%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Bulldog+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bulldog%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Bulldog+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Litter Puppies",
+      "displayText": "Litter",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Litter+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Litter%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Litter+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Litter%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Litter+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Toy Poodle Puppies",
+      "displayText": "Toy Poodle",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Toy+Poodle+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Toy+Poodle%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Toy+Poodle+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Toy+Poodle%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Toy+Poodle+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Chow Puppies",
+      "displayText": "Chow",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Chow+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chow%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Chow+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chow%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Chow+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Pom Puppies",
+      "displayText": "Pom Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Pom+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pom+Puppies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pom+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pom+Puppies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Pom+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Westie Puppies",
+      "displayText": "Westie",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Westie+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Westie%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Westie+Puppies&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Westie%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Westie+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    }
+  ],
+  "pivotSuggestions": [
+    {
+      "pivot": "puppies",
+      "suggestions": [
+        {
+          "text": "Dog",
+          "displayText": "Dog",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Dog&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Dog%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Dog&tq=%7b%22pq%22%3a%22puppies%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22puppies%22%2c%22pv%22%3a%22puppies%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Dog%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Dog&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    {
+      "text": "Boxer Puppies",
+      "displayText": "Boxer Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Boxer+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Boxer+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Boxer+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Cutest Puppies",
+      "displayText": "Cutest Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Cutest+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cutest+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Cutest+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Small Puppies",
+      "displayText": "Small Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Small+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Small+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Small+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Toy Puppies",
+      "displayText": "Toy Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Toy+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Toy+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Toy+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Funny Puppies",
+      "displayText": "Funny Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Funny+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Funny+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Funny+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Happy Puppies",
+      "displayText": "Happy Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Happy+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Happy+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Happy+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Schnauzer Puppies",
+      "displayText": "Schnauzer Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Schnauzer+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Schnauzer+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Schnauzer+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Winter Puppies",
+      "displayText": "Winter Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Winter+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Winter+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Winter+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Puppies Love",
+      "displayText": "Puppies Love",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Puppies+Love&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Puppies+Love",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Puppies+Love&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Black Lab Puppies",
+      "displayText": "Black Lab Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Black+Lab+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Black+Lab+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Black+Lab+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Golden Puppies",
+      "displayText": "Golden Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Golden+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Golden+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Golden+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Super Cute Puppies",
+      "displayText": "Super Cute Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Super+Cute+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Super+Cute+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Super+Cute+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Chow Chow Puppies",
+      "displayText": "Chow Chow Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Chow+Chow+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Chow+Chow+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Chow+Chow+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Pit Bull Puppies",
+      "displayText": "Pit Bull Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Pit+Bull+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pit+Bull+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Pit+Bull+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Litter Puppies",
+      "displayText": "Litter Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Litter+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Litter+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Litter+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Yellow Lab Puppies",
+      "displayText": "Yellow Lab Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Yellow+Lab+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Yellow+Lab+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Yellow+Lab+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Pom Puppies",
+      "displayText": "Pom Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Pom+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pom+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Pom+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Bulldog Puppies",
+      "displayText": "Bulldog Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Bulldog+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Bulldog+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Bulldog+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Birthday Puppies",
+      "displayText": "Birthday Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Birthday+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Birthday+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Birthday+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Westie Puppies",
+      "displayText": "Westie Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Westie+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Westie+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Westie+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Toy Poodle Puppies",
+      "displayText": "Toy Poodle Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Toy+Poodle+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Toy+Poodle+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Toy+Poodle+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Teddy Bear Puppies",
+      "displayText": "Teddy Bear Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Teddy+Bear+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Teddy+Bear+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Teddy+Bear+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Golden Puppy",
+      "displayText": "Golden Puppy",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Golden+Puppy&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Golden+Puppy",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Golden+Puppy&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "4 Puppies",
+      "displayText": "4 Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=4+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=4+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=4+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Chihuahua Puppies",
+      "displayText": "Chihuahua Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Chihuahua+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Chihuahua+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Chihuahua+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Micro Puppies",
+      "displayText": "Micro Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Micro+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Micro+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Micro+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Labrador Puppy",
+      "displayText": "Labrador Puppy",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Labrador+Puppy&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Labrador+Puppy",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Labrador+Puppy&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Sheltie Puppies",
+      "displayText": "Sheltie Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Sheltie+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Sheltie+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Sheltie+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Lab Pups",
+      "displayText": "Lab Pups",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Lab+Pups&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Lab+Pups",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Lab+Pups&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Shiba Inu Puppies",
+      "displayText": "Shiba Inu Puppies",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Shiba+Inu+Puppies&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Shiba+Inu+Puppies",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Shiba+Inu+Puppies&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    }
+  ]
+}
