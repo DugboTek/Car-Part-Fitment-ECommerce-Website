@@ -1,6 +1,6 @@
 // Ali Moulton
 import { Link } from "react-router-dom";
-import LogoImg from "../../Images/polaris-logo.png";
+import LogoImg from "../../Images/new-logo.png";
 import "../../Styles/main.css";
 import "../../Styles//NavStyles/MainLogo.css";
 import createBrowserHistory from "history/createBrowserHistory";

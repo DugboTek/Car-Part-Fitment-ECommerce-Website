@@ -1,7 +1,7 @@
 {
   "cloud-search": {
-    "aws_access_key_id": "AKIAVF6CPDNK6YWP3HTT",
-    "aws_secret_access_key": "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"
+    "aws_access_key_id": "AKIAUAW7OWDSAVH6UD5T",
+    "aws_secret_access_key": "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"
   },
   "dynamodb": {
     "aws_access_key_id": "AKIAVJLELI5I4QREIGAH",

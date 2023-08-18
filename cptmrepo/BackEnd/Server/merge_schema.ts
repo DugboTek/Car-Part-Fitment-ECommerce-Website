@@ -13,7 +13,7 @@ AWS.config.update({ region: "us-east-1" });
 // Create an instance of AWS CloudSearchDomain
 const cloudSearch = new AWS.CloudSearchDomain({
   endpoint:
-    "search-parts-search-final-23qdv6tzpidmobz3ednv6wxonm.us-east-1.cloudsearch.amazonaws.com",
+    "search-cloud-search-domain-wwidceb7hwn3amvic5fiytywem.us-east-1.cloudsearch.amazonaws.com",
   region: "us-east-1",
 });
 
@@ -853,8 +853,8 @@ const getProductsFunc = async (
   try {
     let products;
     let projection: any = {
-      years_accepted: 1, 
-      make: 1, 
+      years_accepted: 1,
+      make: 1,
       model: 1,
       description: 1,
       unique_id: 1,
@@ -899,8 +899,8 @@ const getProductFunc =
       };
       if (fullProduct) {
         projection = {
-          years_accepted: 1, 
-          make: 1, 
+          years_accepted: 1,
+          make: 1,
           model: 1,
           description: 1,
           unique_id: 1,

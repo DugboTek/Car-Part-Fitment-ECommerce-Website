@@ -313,8 +313,17 @@ function ResultsPage() {
 }
 
 const FiltersArea = ({ facetSelection, clearFilter }) => {
+  const yearsAcceptedValue = facetSelection["years_Accepted"];
+  console.log("Value of years_Accepted:", yearsAcceptedValue);
+  console.log(isNaN(yearsAcceptedValue));
   const selectedFacets = Object.entries(facetSelection).filter(
-    ([key, value]) => value !== null
+    ([key, value]) => {
+      if (key === "years_accepted") {
+        return !isNaN(value) && value !== null; // Keep  if value is not NaN
+      } else {
+        return value !== null; // Keep if value is not null
+      }
+    }
   );
 
   return (
